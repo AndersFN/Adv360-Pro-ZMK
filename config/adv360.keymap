@@ -48,11 +48,11 @@
 
         sym {
             bindings = <
-&trans  &trans                &trans           &trans        &trans                &trans                 &trans                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp LEFT_PARENTHESIS  &kp EXCLAMATION  &kp AT        &kp HASH              &kp RIGHT_PARENTHESIS  &trans                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp LEFT_BRACKET      &kp DOLLAR       &kp PERCENT   &kp CARET             &kp RIGHT_BRACKET      &trans  &trans    &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp LEFT_BRACE        &kp AMPERSAND    &kp ASTERISK  &kp NON_US_BACKSLASH  &kp RIGHT_BRACE                          &trans      &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans                &trans           &trans        &trans                                       &trans  &kp PIPE  &trans      &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+&trans  &trans                &trans           &trans        &trans         &trans                 &trans                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LEFT_PARENTHESIS  &kp EXCLAMATION  &kp AT        &kp HASH       &kp RIGHT_PARENTHESIS  &trans                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LEFT_BRACKET      &kp DOLLAR       &kp PERCENT   &kp CARET      &kp RIGHT_BRACKET      &trans  &trans    &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LEFT_BRACE        &kp AMPERSAND    &kp ASTERISK  &kp BACKSLASH  &kp RIGHT_BRACE                          &trans      &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans                &trans           &trans        &trans                                &trans  &kp PIPE  &trans      &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
